@@ -11,3 +11,4 @@
 
 这两个问题答案，有其内在的联系。
 
+![展示这种关系的图片](https://github.com/ntysdd/twin_prime_and_goldbach/blob/master/output.png)
